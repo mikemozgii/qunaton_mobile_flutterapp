@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "733218054852",
+    "project_id": "quanton-mobile",
+    "storage_bucket": "quanton-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733218054852:android:8016c9871b2811f4b35f91",
+        "android_client_info": {
+          "package_name": "com.tonbrains.quanton.mobile.tonbrains_quanton_mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733218054852-4lcjcvfsg4odspn18aiei3ar8n2i8mni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tonbrains.quanton.mobile.tonbrains_quanton_mobile_app",
+            "certificate_hash": "b644be39ff9001e44cefbe78aecb90eb61a3e90e"
+          }
+        },
+        {
+          "client_id": "733218054852-m6eh3l4ep301qk8trt0at4s97662risv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tonbrains.quanton.mobile.tonbrains_quanton_mobile_app",
+            "certificate_hash": "a12917c7cc8277fdd7d8ca95dd3abcd105182f98"
+          }
+        },
+        {
+          "client_id": "733218054852-vmlukufe1ri78m81uo9ot5b7b8vmitjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3bxAyiQbeHa2sjyQt1XVaqwm1aFmTtzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733218054852-vmlukufe1ri78m81uo9ot5b7b8vmitjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
